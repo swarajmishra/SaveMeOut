@@ -1,2 +1,2 @@
 # SaveMeOut
-QR Tag Ecommerce Site
+Web Application designed to create QR Codes for Emergency Use-cases.
